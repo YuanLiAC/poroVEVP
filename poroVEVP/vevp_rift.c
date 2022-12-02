@@ -3,7 +3,7 @@
 // ---------------------------------------
 static char help[] = "Application for the rift initiation \n\n";
 
-#include "paper_vevp.h"
+#include "poro-vevp.h"
 
 const char coeff_description_sd[] = 
 "  << Stokes-Darcy Coefficients >> \n"

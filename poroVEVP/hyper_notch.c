@@ -5,7 +5,7 @@
 // ---------------------------------------
 static char help[] = "Application to simulate the dyke propagation in an extensional two-phase block \n\n";
 
-#include "paper_vevp.h"
+#include "poro-vevp.h"
 
 // ---------------------------------------
 // Application Context
