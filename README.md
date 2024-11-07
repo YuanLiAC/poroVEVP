@@ -1,5 +1,7 @@
 # poroVEVP
-Source codes for GJI manuscript poroVEVP; requirements [PETSc](https://petsc.org/release/) and [FD-PDE](https://github.com/apusok/FD-PDE)
+Source codes for GJI manuscript poroVEVP; 
+Source codes for GMD manuscript poro-dyke;
+requirements [PETSc](https://petsc.org/release/) and [FD-PDE](https://github.com/apusok/FD-PDE)
 
 ## License: MIT License
 
