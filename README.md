@@ -50,7 +50,7 @@ In `FD-PDE/poroVEVP/poroVEVP/python` run with
 `cd poroVEVP/poro-dyke` \
 `make all`
 
-### Run shear, tensile and rifting models in GMD paper
+### Run poroVEVP models in GMD paper
 In `FD-PDE/poroVEVP/poro-dyke/python` run with
 * `python work.py`
 
